@@ -1,5 +1,4 @@
 <?php
-
 /**
  * App\Models\User => ./App/Models/User.php
  */
